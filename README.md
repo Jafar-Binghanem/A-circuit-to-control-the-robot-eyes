@@ -26,7 +26,7 @@ void loop()
    
    
  
- ![Circuit](images/Screenshot(232).png)
+ ![Circuit](Screenshot(232).png)
  
   **C. The simulation design**  
   
